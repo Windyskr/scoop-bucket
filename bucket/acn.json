@@ -1,18 +1,18 @@
 {
-    "version": "1.0.0",
+    "version": "1.1.1",
     "description": "Agent Completion Notification - send Claude Code and Codex completion notifications to Feishu or Bark",
     "homepage": "https://github.com/Windyskr/agent-completion-notification",
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/Windyskr/agent-completion-notification/releases/download/v1.0.0/acn_1.0.0_windows_amd64.zip",
-            "hash": "bf1d206dac60d6e85975f97f5e370d1c241b5d199ebb2eeadd905bd48971edb3",
-            "extract_dir": "acn_1.0.0_windows_amd64"
+            "url": "https://github.com/Windyskr/agent-completion-notification/releases/download/v1.1.1/acn_1.1.1_windows_amd64.zip",
+            "hash": "7a538345791fe8cde4a241675b48cfe1e0f75fb3a84b682d6e917d04eb27aba3",
+            "extract_dir": "acn_1.1.1_windows_amd64"
         },
         "arm64": {
-            "url": "https://github.com/Windyskr/agent-completion-notification/releases/download/v1.0.0/acn_1.0.0_windows_arm64.zip",
-            "hash": "41e6d30f5b45b267116775bfad7b82bdc48f61720abbea940bb036ddc3b508c4",
-            "extract_dir": "acn_1.0.0_windows_arm64"
+            "url": "https://github.com/Windyskr/agent-completion-notification/releases/download/v1.1.1/acn_1.1.1_windows_arm64.zip",
+            "hash": "e369fe00b4869e04c671576773290174879700c41cad80e2bc3661f495c9e789",
+            "extract_dir": "acn_1.1.1_windows_arm64"
         }
     },
     "bin": "acn.exe",
